@@ -1,0 +1,204 @@
+[
+  {
+    "name": "ED&T PARTNER LLC/GAMM LLC",
+    "users":  [{"url" :  "https://crm.gloss.am/upload/main/c03/iuoph8r6rpnabk7cs64luqkks74rmu5d/avatar.png", "name" :  "Inesa Meiliksetyan", "id" :  "1"}],
+    "children": [
+      {
+        "name": "Marketing Manager",
+        "users":  [{"url" :  "https://crm.gloss.am/upload/main/630/k3alcj66jlggp1if4qprzavapbwh1hw0/avatar.png", "name" :  "Armine Margaryan", "id" :  "1","position": "Marketing Manager"}],
+        "children":[
+          {
+            "name": "Marketing team",
+            "users":  [{"url" :  "https://crm.gloss.am/upload/main/034/ncr5jr52whee63ed0ou2b1yclep46yc3/56556051_324005698236568_8918271922517573632_n.jpg.png", "name" : "Lilit Manukyan", "id" :  "1","position": "Digital SMM specialist"},
+              {"url" :"https://crm.gloss.am/upload/main/cb6/ms7y6seoynlhdn0ok5kia0d4ghzqmznz/6856640E-B3CD-43CA-8BA1-7CF43087AD04.png", "name" : "Narine Karghinyan","id":"1","position": "Digital SMM specialist"}],
+            "children": [
+              {
+                "name": "Online sales assistant",
+                "users":  [
+                  {"url":"https://crm.gloss.am/upload/main/5cc/ykm1bjsj6ymv1rbv7cd3my9bq7mhfcj4/avatar.png", "name" :  "Lia Hakobyan", "id" :  "1","position":"Online sales assistant"},
+                  {"url" :  "", "name" :  "Manushak Muradyan", "id" :  "2","position":"Online sales assistant"},
+                  {"url":"https://crm.gloss.am/upload/main/bbf/e8j1vs1lh9lh3edbidw12ls78vsxkpyr/avatar.png", "name" :  "Veronika Zakharyan", "id" :  "3","position":"Online sales assistant"}
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Finance & accounting",
+        "users":  [
+          {"url" :"https://crm.gloss.am/upload/main/741/rh67szu70hvgk4q7kz6v6b4s74kq1tob/Petik.png", "name" :"Petik Karapetyan", "id" :  "","position": "Head of Finances"}],
+        "children":[
+          {
+            "name": "Head of accounting department",
+            "users":  [{"url" :  "", "name" :  "Liana Ghazaryan", "id" :  "1","position": "Head of accounting"}],
+            "children": [
+              {
+                "name": "Assistant to finance department",
+                "users":  [
+                  {"url" :  "https://crm.gloss.am/upload/main/82a/2xmr9sczjl9bk0dttfbdzthtudvdshg4/IMG_20210820_150549810.jpg.png",
+                    "name" :  "Vanik Arsenyan", "id" :  "2","position":"Assistant to finance"}]
+
+              }, {
+                "name": "Accountant ",
+                "users":  [
+                  {"url" :  "https://crm.gloss.am/upload/main/117/s3aihw1j509694mf2h5p0etj35zpxy03/WhatsApp%20Image%202022-11-23%20at%2010.12.49.png", "name":"Melania Arzumanyan", "id" :"1","position":"Accountant"},
+                  {"url":"https://crm.gloss.am/upload/main/6ae/yqy5ztka2182qha18d72yc8t3ev6c6xg/WhatsApp%20Image%202022-11-23%20at%2010.09.01%20(2).png", "name" :  "Tatyana Sargsyan", "id" :  "2","position":"Accountant"}],
+                "children":[
+                  {
+                    "name": "junior accountant",
+                    "users":  [
+                      {"url" :  "https://crm.gloss.am/upload/main/d42/v735djnn06o8ublulw96rhwyuo7sg7el/WhatsApp%20Image%202023-01-09%20at%2010.26.05.png", "name" :  "Serine Kirakosyan", "id" :  "","position": "junior accountant"}
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "HR Head of HR Department",
+        "users":  [{"url" :"", "name" :"", "id" :""}],
+        "children":[
+          {
+            "name": "HR",
+            "users":  [{"url" :  "", "name" :  "", "id" :  ""}],
+            "children": [
+              {
+                "name": "HR assistant",
+                "users":  [{"url" : "https://crm.gloss.am/upload/main/e3a/bwd6349ktcmu9oeugi4mn4ooieoyms4q/avatar.png", "name" :"Kristine Khachatryan", "id" :  "","position": " assistant"}
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "operation",
+        "users":  [{"url" :  "", "name" :  "", "id" :  ""}],
+        "children":[
+          {
+            "name": "ED&T Partners LLC",
+            "users":  [{"url" :  "https://crm.gloss.am/upload/main/eb1/v9nj42xp3xhdrj78v1sprix0szayqz3i/1672911283876.jpg.png", "name" :  "Hrant Dadayan", "id" :  "","position": "operation manager"}],
+            "children": [
+              {
+                "name": "Stock-keeper",
+                "users":  [{"url" :  "https://crm.gloss.am/upload/main/d33/dh3c36j656m6b8zobku3jj89qnedugma/avatar.png", "name" :  "Kolya Khachatryan", "id" :  "","position": "Stock-keeper"}]
+              },
+              {
+                "name": "VM",
+                "users":  [{"url" : "https://crm.gloss.am/upload/main/2e6/grsimat83w8trqxnvpak5n93thckhemq/avatar.png", "name" :  "Elen Hrachyan", "id" :  "1","position": "vm"},
+                  {"url" :  "", "name" :  "Armen Poghosyan", "id" :  "2","position": "vm"}],
+
+                "children": [
+                  {
+                    "name": "VM Assistant",
+                    "users":  [{"url" :  "https://crm.gloss.am/upload/main/6e4/orehct7zc24wq8ey51e75t2jty9d259l/avatar.png","name" :  "Patil Gourghigian", "id" :  "","position": ""}],
+                    "children": [
+                      {
+                        "name": "WS Dalma mall manager",
+                        "users":  [{"url" :  "https://crm.gloss.am/upload/main/a87/c4rqxgyg4ckebefyd08onwgr08qlmh6j/avatar.png", "name" :  "Karina Hovhannisyan", "id" :  "","position": "assistant to manager"}],
+                        "children": [
+                          {
+                            "name": "Senior sales",
+                            "users":  [{"url" : "https://crm.gloss.am/upload/main/5bc/126j1fo8w76htmmg32jvjiezm53djjjr/avatar.png", "name" :  "Mariam Palyan", "id" :  "1","position": "Senior sales"}]
+                          }
+                        ]
+                      }
+                    ]
+                  },{
+                    "name": "VM Assistant",
+                    "users":  [{"url" : "https://crm.gloss.am/upload/main/849/0jg0rgbuytvzf2o6o3i8ddt35irnrawg/avatar.png", "name" :  "Lida Hovhannisyan", "id" :  "","position": "VM Assistant"}],
+                    "children": [
+
+                      {
+                        "name": "WS RIO Mall manager",
+                        "users":  [{"url" : "https://crm.gloss.am/upload/main/3d4/6rsr5x5wfr8qpzjn371quislp3l18gto/avatar.png", "name" :  "Mariam Ghazaryan", "id" :  "1","position": "Assistant to manager"}],
+                        "children": [
+                          {
+                            "name": "Senior sales",
+                            "users":  [{"url" :  "", "name" :  "", "id" :  ""}]
+                          }
+                        ]
+                      }
+                    ]
+                  },{
+                    "name": "VM Assistant",
+                    "users":  [{"url" :  "https://crm.gloss.am/upload/main/3c2/1zh0yd46uinvxf7458m5utelamistgbq/avatar.png", "name" : "Shushan Najaryan", "id" :  "1","position":"VM Assistant" }],
+                    "children": [
+                      {
+                        "name": "SPF ",
+                        "users":  [{"url" :  "https://crm.gloss.am/upload/main/d33/dh3c36j656m6b8zobku3jj89qnedugma/avatar.png", "name" :  "Kolya Khachatryan", "id" :  "","position": "Assistant to manager"}]
+                      }
+                    ]
+                  },{
+                    "name": "VM Assistant",
+                    "users":  [{"url" : "https://crm.gloss.am/upload/main/bfe/ql70dc2tlfhsmk4c68dpisj0s2mdhzv3/avatar.png", "name" :  "Taguhi Khachatryan", "id" :  "1","position":"VM Assistant"}],
+                    "children": [
+                      {
+                        "name": "OM Manager",
+                        "users":  [{"url" :  "", "name" :  "", "id" :  ""}],
+                        "children": [
+                          {
+                            "name": "Senior sales",
+                            "users":  [{"url" :  "https://crm.gloss.am/upload/main/ee3/vfqdn53dvg46a3kxgjewigvt3jgv7sxg/avatar.png", "name" :  "Ruzzanna Manukyan", "id" :  "1","position": "Senior sales"}]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+
+          {
+            "name": "GAMM LLC",
+            "users":  [{"url" :  "", "name" :  "", "id" :  ""}],
+            "children": [
+              {
+                "name": "Gloss general manager",
+                "users":  [{"url" : "https://crm.gloss.am/upload/main/3b1/rh2htwt2opekimt79b9mesysxt30hsia/avatar.png", "name" :  "Eva Hunanyan", "id" :  "","position": "Gloss general manager"}],
+                "children": [
+                  {
+                    "name": "Manager/sales Manager",
+                    "users":  [{"url" :  "", "name" :  "", "id" :  ""}],
+                    "children": [
+                      {
+                        "name": "Assistant manager",
+                        "users":  [{"url" :  "https://crm.gloss.am/upload/main/a33/m9flwcq3whugzmfmt1p4qyf0p3oxtfxo/լիլիտ.jpg.png", "name" :  "Lilit Nazaryan", "id" :  "1","position": "assistant to manager"}],
+                        "children": [
+                          {
+                            "name": " CASHIER/Admin",
+                            "users":  [{"url" : "https://crm.gloss.am/upload/main/cb6/ms7y6seoynlhdn0ok5kia0d4ghzqmznz/6856640E-B3CD-43CA-8BA1-7CF43087AD04.png", "name" :  "Narine Kaghinyan", "id" :  "","position":"CASHIER/Admin"},
+                              {"url" :  "", "name" :  "Lida", "id" :  "2","position":"CASHIER/Admin"},
+                              {"url" :  "", "name" :  "Elmira hovhanisyan", "id" :  "3","position":"CASHIER/Admin"}
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "House master",
+            "users":  [{"url" :  "https://crm.gloss.am/upload/main/d66/lqlrframb94ir2nh3wh0zenojnovh0i9/avatar.png", "name" :  "Sos Asryan", "id" :  "","position": "master"}
+              ]
+          },
+          {
+            "name": "delivery",
+            "users":  [{"url" :  "", "name" :  "Levon ", "id" :  "1","position": "delivery"}]
+          },
+          {
+            "name": "IT",
+            "users":  [{"url" :  "", "name" :  "", "id" :  "","position": ""}]
+          }
+        ]
+      }
+    ]
+  }
+]
